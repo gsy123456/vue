@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    height: 100%;
+}
+#gadMap{
+    width:800px;
+    height:600px;
+    border:1px solid red;
+}
